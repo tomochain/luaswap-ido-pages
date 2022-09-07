@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.d6e54c96.chunk.js": "/ido/static/js/0.d6e54c96.chunk.js",
+    "static/js/0.d6e54c96.chunk.js.map": "/ido/static/js/0.d6e54c96.chunk.js.map",
+    "main.js": "/ido/static/js/main.b07640db.chunk.js",
+    "main.js.map": "/ido/static/js/main.b07640db.chunk.js.map",
+    "runtime-main.js": "/ido/static/js/runtime-main.17c59036.js",
+    "runtime-main.js.map": "/ido/static/js/runtime-main.17c59036.js.map",
+    "static/js/3.b8b51152.chunk.js": "/ido/static/js/3.b8b51152.chunk.js",
+    "static/js/3.b8b51152.chunk.js.map": "/ido/static/js/3.b8b51152.chunk.js.map",
+    "static/js/4.65245b8e.chunk.js": "/ido/static/js/4.65245b8e.chunk.js",
+    "static/js/4.65245b8e.chunk.js.map": "/ido/static/js/4.65245b8e.chunk.js.map",
+    "static/js/5.12909785.chunk.js": "/ido/static/js/5.12909785.chunk.js",
+    "static/js/5.12909785.chunk.js.map": "/ido/static/js/5.12909785.chunk.js.map",
+    "static/css/6.2ae7c646.chunk.css": "/ido/static/css/6.2ae7c646.chunk.css",
+    "static/js/6.fec31de8.chunk.js": "/ido/static/js/6.fec31de8.chunk.js",
+    "static/js/6.fec31de8.chunk.js.map": "/ido/static/js/6.fec31de8.chunk.js.map",
+    "static/js/7.a028e1bf.chunk.js": "/ido/static/js/7.a028e1bf.chunk.js",
+    "static/js/7.a028e1bf.chunk.js.map": "/ido/static/js/7.a028e1bf.chunk.js.map",
+    "static/js/8.2dadde0e.chunk.js": "/ido/static/js/8.2dadde0e.chunk.js",
+    "static/js/8.2dadde0e.chunk.js.map": "/ido/static/js/8.2dadde0e.chunk.js.map",
+    "static/js/9.254c96eb.chunk.js": "/ido/static/js/9.254c96eb.chunk.js",
+    "static/js/9.254c96eb.chunk.js.map": "/ido/static/js/9.254c96eb.chunk.js.map",
+    "static/js/10.98e7b56e.chunk.js": "/ido/static/js/10.98e7b56e.chunk.js",
+    "static/js/10.98e7b56e.chunk.js.map": "/ido/static/js/10.98e7b56e.chunk.js.map",
+    "index.html": "/ido/index.html",
+    "static/css/6.2ae7c646.chunk.css.map": "/ido/static/css/6.2ae7c646.chunk.css.map",
+    "static/js/3.b8b51152.chunk.js.LICENSE.txt": "/ido/static/js/3.b8b51152.chunk.js.LICENSE.txt",
+    "static/js/4.65245b8e.chunk.js.LICENSE.txt": "/ido/static/js/4.65245b8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c59036.js",
+    "static/js/3.b8b51152.chunk.js",
+    "static/js/main.b07640db.chunk.js"
+  ]
+}

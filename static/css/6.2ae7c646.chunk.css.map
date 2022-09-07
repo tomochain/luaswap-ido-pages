@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/Idos/styles.module.scss"],"names":[],"mappings":"AAAA,wBACE,cAAe,CACf,eAAiB,CACjB,iBAAkB,CAClB,gBAAiB","file":"6.2ae7c646.chunk.css","sourcesContent":[".tabStyle {\n  font-size: 15px;\n  font-weight: bold;\n  padding: 24px 12px;\n  line-height: 24px;\n}\n"]}
